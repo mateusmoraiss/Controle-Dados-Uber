@@ -4,6 +4,7 @@
 
  A seguir darei um tutorial detalhando o uso do programa, possivelmente farei algumas melhorias mas já é um programa bastante útil para uso pessoal... uma das coisas que eu mais acho importante na tecnologia é a praticidade! 
 
+Primeiro baixe o programa, criando em CODE ao abrir o link: https://github.com/mateusmoraiss/Controle-Dados-Uber , depois DOWNLOAD ZIP, em seguida é só extrair... não precisa de instalação. já cuidei dessa parte :) 
 
  1: Ao abrir o programa você terá as seguintes opções:
 
