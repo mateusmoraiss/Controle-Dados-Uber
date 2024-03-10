@@ -6,7 +6,7 @@
 
 Primeiro baixe o programa, clicando em CODE ao abrir o link: https://github.com/mateusmoraiss/Controle-Dados-Uber , depois DOWNLOAD ZIP, em seguida é só extrair... não precisa de instalação. já cuidei dessa parte :) 
 
- 1: Ao abrir o programa você terá as seguintes opções:
+ 1: Ao abrir o programa 'Index.py' você terá as seguintes opções:
 
  - Continuar mês.
  - Abrir mês.
