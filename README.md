@@ -1,5 +1,5 @@
 # Controle-Dados-Uber
- Controlar Dados dos lucros como motorista (uso pessoal)
+ Controlar Dados dos lucros como motorista 
 
 
  A seguir darei um tutorial detalhando o uso do programa, possivelmente farei algumas melhorias mas já é um programa bastante útil para uso pessoal... uma das coisas que eu mais acho importante na tecnologia é a praticidade! 
