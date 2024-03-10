@@ -27,6 +27,8 @@ Ao fechar o mês na terceira opção você finalizará aquele mês e no relatór
 
 DICAAAAA! O Programa calcula o seu lucro BRUTO, caso você queira calcular o seu lucro liquido de um determinado dia (tirando o que você gastou de combustível) eu tenho um site bem rápido e funcional que também pode ser uma mão na roda. Não acho que precise de um tutorial pois ao entrar lá você verá que é bem simples e autoexplicativo, me certifiquei que todas as contas estão certas, poderá acha-lo aqui: https://uber-gross-profit.netlify.app
 
+Se você pegar sua média do mês de lucro bruto e KM total, e colocar no site, terá seu lucro certinho. Poderá fazer isso mês a mês , semana, ou diariamente. fica a seu critério.
+
 Use dando meus devido créditos! Plágio é crime!
 Protegido por direitos autorais. © Mateus Morais
 Cópia, distribuição ou modificação sem autorização é proibida.
