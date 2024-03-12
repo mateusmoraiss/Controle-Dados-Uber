@@ -23,7 +23,7 @@ ESTES ARQUIVOS SERÃO GERADOS NA PASTA DO PROGRAMA COM OS SEGUINTES NOMES:
 
 Beleza, você escolhei a opção abrir mês, foi criado tudo certinho, agora é só escolher a opção 'continuar mês', lá você colocará o dia da semana, seus km rodados e seu lucro bruto.
 
-Ao fechar o mês na terceira opção você finalizará aquele mês e no relatório dará dados que considero importante para um motorista de uber saber , como o SEU MELHOR DIA, e a média de lucro.
+Ao fechar o mês na terceira opção você finalizará aquele mês e no relatório dará dados que considero importante para um motorista de uber saber , como o SEU MELHOR DIA DO MÊS, e a média de lucro calculando todos os dias.
 
 DICAAAAA! O Programa calcula o seu lucro BRUTO, caso você queira calcular o seu lucro liquido de um determinado dia (tirando o que você gastou de combustível) eu tenho um site bem rápido e funcional que também pode ser uma mão na roda. Não acho que precise de um tutorial pois ao entrar lá você verá que é bem simples e autoexplicativo, me certifiquei que todas as contas estão certas, poderá acha-lo aqui: https://uber-gross-profit.netlify.app
 
