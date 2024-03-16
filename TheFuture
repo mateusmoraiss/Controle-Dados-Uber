@@ -1,8 +1,13 @@
+let Used_Artificial_Intelligence = true;
+let Usei_Inteligencia_Artificial = true;
+let Used_Previous_Template = false;
+let Usei_Template_Previo = false;
+
 if (Used_Artificial_Intelligence === true) {
     var Approximate_Level_Used = "50%";
     var How_Used = "I merged Python and SQL knowledge with the help of AI";
 
-    if (Used_Previous_Template === false) {
+    if (Used_Previous_Template === true) {
         var Credit = "All about it, and credit to the author";
     } else {
         var Credit = "100% original";
@@ -13,7 +18,7 @@ if (Usei_Inteligencia_Artificial === true) {
     var Nivel_Aproximado_Usado = "50%";
     var Como_Usei = "Mesclei conhecimentos de python e sql com auxilio de IA";
 
-    if (Usei_Template_Previo === false) {
+    if (Usei_Template_Previo === true) {
         var Credito = "Tudo sobre isso e crédito para o autor";
     } else {
         var Credito = "100% autoral";
