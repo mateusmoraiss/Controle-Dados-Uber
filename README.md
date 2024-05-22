@@ -21,7 +21,7 @@ ESTES ARQUIVOS SERÃO GERADOS NA PASTA DO PROGRAMA COM OS SEGUINTES NOMES:
 
 'relatorio', para você acompanhar de uma forma super simples seus dados armazenados, e 'uber_ganhos' , não apague nenhuma pasta dessa a não ser que você queira manualmente resetar seus dados... Aliás, se você informar algum dado no programa e queira remover ou editar, é só entrar no relatório e modificar normalmente, criei ele simples como um arquivo de texto.
 
-Beleza, você escolhei a opção abrir mês, foi criado tudo certinho, agora é só escolher a opção 'continuar mês', lá você colocará o dia da semana, seus km rodados e seu lucro bruto.
+Beleza, você escolheu a opção abrir mês, foi criado tudo certinho, agora é só escolher a opção 'continuar mês', lá você colocará o dia da semana, seus km rodados e seu lucro bruto.
 
 Ao fechar o mês na terceira opção você finalizará aquele mês e no relatório dará dados que considero importante para um motorista de uber saber , como o SEU MELHOR DIA DO MÊS, e a média de lucro calculando todos os dias.
 
@@ -29,11 +29,4 @@ DICAAAAA! O Programa calcula o seu lucro BRUTO, caso você queira calcular o seu
 
 Se você pegar sua média do mês de lucro bruto e KM total, e colocar no site, terá seu lucro certinho. Poderá fazer isso mês a mês , semana, ou diariamente. fica a seu critério. (OBVIAMENTE O CALCULO É APENAS COM BASE NO COMBUSTÍVEL, POIS FICA DIFÍCIL CONSIDERAR SUA MANUTENÇÃO POIS É VARIÁVEL DE PESSOA PARA PESSOA.)
 
-Use dando meus devido créditos! Plágio é crime!
-Protegido por direitos autorais. © Mateus Morais
-Cópia, distribuição ou modificação sem autorização é proibida.
-Violações podem resultar em ações civis e criminais
 
-https://www.instagram.com/mateusmoraiskrr/ 
-
-ATENCIOSAMENTE, Mateus Morais.
